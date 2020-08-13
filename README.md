@@ -7,7 +7,7 @@ Creative problem solver, Faster learner and Critical thinker.
 
 • Bachelor: Mersin University, Department of GIS and Urban Planning
 
-• Master: Complete 4 of 5 courses from Statistics and Data Science MIT MicroMaster Program
+• Master: Complete 4 of 5 courses from Statistics and Data Science Massachusetts Institute of Technology MicroMaster Program
 
 • Nondegree: Completed 32 online Python, Data Science, and Machine Learning from DataCamp
 
