@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there This is Ramazan 👋
 
 Creative problem solver, Faster learner and Critical thinker.
 
